@@ -1,0 +1,432 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: gray;
+    padding: 1rem;
+    overflow: hidden;
+
+
+
+}
+
+.nav {
+    float: left;
+}
+
+.logo {
+    width: 20%;
+}
+
+.nav-item {
+    width: 60%;
+}
+
+.search {
+    width: 20%;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav li {
+    display: inline-block; 
+    
+
+}
+
+nav a {
+    text-decoration: none;
+    padding: 1rem;
+    display: inline-block;
+}
+
+nav ul a:hover {
+    color: white;
+}
+
+.search {
+    text-align: center;
+    padding: 1rem;
+}
+
+/* section pi {
+    background-color: lightgreen;
+} */
+
+.icon {
+    /* background-color: lightgreen; */
+    /* position: relative; */
+    float: right;
+    /* height: 100px; */
+    padding: 0rem 2rem;
+    /* background-size: cover; */
+}
+
+.wrapper {
+    overflow: hidden;
+    /* background-color: lightgreen; */
+}
+
+.he {
+    float: left;
+    width: 50%;
+}
+
+.wa {
+    background-color: lightgoldenrodyellow;
+}
+
+.head {
+    padding: 1rem;
+}
+
+/* 
+.empty{
+    background-color: lightgreen;
+    float: center;
+    height: 165px;
+} */
+.one {
+    text-align: center;
+}
+
+.main {
+    background-color: white;
+}
+
+.bye {
+    background-color: lightcyan;
+    align-items: center;
+    width: 33.33%;
+    float: left;
+}
+
+
+.five {
+    text-align: center;
+}
+
+/* .six {
+    display: flex;
+} */
+
+.hi {
+    /* align-items: center;
+    margin: 10px;
+    width: 100%;
+    background-color: beige; */
+    background-color: beige;
+    align-items: center; 
+    width: 23.79%;
+    float: left;
+    margin: 8px;
+}
+
+.we {
+    text-align: center;
+}
+
+/* .shoe {
+    display: flex;
+    background-color: white;
+} */
+
+.no {
+    /* align-items: center;
+    float: left;
+    width: 20%;
+    background-color: beige; */
+    background-color: beige;
+    align-items: center;
+    width: 18.8%;
+    float: left;
+    margin: 8px;
+}
+
+.top {
+    text-align: center;
+}
+
+/* .sale {
+    background-color: white;
+    display: flex;
+} */
+
+.qa {
+    background-color: beige;
+    align-items: center;
+    width: 18.5%;
+    float: left;
+    margin: 10px;
+}
+
+.clients {
+    text-align: center;
+}
+
+.il {
+    display: flex;
+    background-color: white;
+    /* padding: 1rem;
+    margin: 1rem; */
+}
+
+.cli {
+    display: flex;
+}
+
+.clie {
+    display: flex;
+}
+
+.clien {
+    display: flex;
+}
+
+.hy {
+    /* align-items: center;  */
+    background-color: beige;
+    /* align-items: center; */
+    width: 31%;
+    float: left;
+    margin: 1rem
+}
+
+.wrap {
+    display: flex;
+}
+
+.na {
+    margin: 1rem;
+}
+
+.sign {
+    background-color: rgb(183, 140, 154);
+    text-align: center;
+}
+
+
+.but {
+    padding: 1rem;
+
+}
+
+.buttt {
+    padding: 1rem 2rem;
+}
+
+/* .brand {
+    display: flex;
+    background-color: white;
+} */
+
+.brand {
+    background-color: white;
+    align-items: center;
+    width: 19.3%;
+    float: left;
+}
+
+.zara {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.adi {
+    margin-top: 35px;
+}
+
+/* .last {
+    background-color: bisque;
+    display: flex;
+} */
+
+.ff {
+    padding: 1rem 2rem;
+}
+
+.face {
+    display: flex;
+    /* background-color: bisque; */
+
+}
+
+.recent {
+    padding: 1rem;
+    display: flex;
+}
+
+/* .rec {
+    padding: ;
+} */
+
+.kk {
+    background-color: bisque;
+    align-items: center;
+    width: 25%;
+    float: left;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+}
+
+ul a {
+    text-decoration: none;
+
+}
+
+ul a:hover {
+    color: green;
+}
+
+.add {
+    display: flex;
+    /* background-color: bisque; */
+}
+
+.ii {
+    overflow: hidden;
+    height: auto;
+
+}
+
+.fff {
+    background-color: gray;
+    align-items: center;
+    width: 25%;
+    float: left;
+    padding: 1rem;
+    height: 248px;
+}
+
+footer {
+    text-align: center;
+    background-color: darkgray;
+    padding: 1rem;
+}
+
+/* {
+    background-color: gray;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+} */
+
+.ram {
+    margin: 10px;
+}
+
+/* .two {
+    
+   text-align: left;
+   float: left;
+   padding: 1rem 2rem;
+  
+   height: 150px;
+   
+}
+.three{
+    
+    
+    
+    text-align: center;
+    
+    padding: 1rem;
+    
+    height: 150px;
+    
+    
+    
+}
+.four{
+    
+    float: right ;
+}
+.bye{
+    background-color: rgb(104, 155, 129);
+
+} */
+
+
+
+
+
+
+
+
+
+
+/* 
+@media screen and (max-width: 1200px) {
+    {
+        width: 20%;
+    }
+} */
+
+
+@media screen and (max-width: 992px) {
+
+    .nav,
+    .no,
+    .qa,
+    .brand {
+        width: 25%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .hi,
+    .no,
+    .qa,
+    .brand,
+    .kk,
+    .fff {
+
+        width: 33.33%;
+    }
+
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    .bye,
+    .hi,
+    .no,
+    .hy,
+    .qa,
+    .brand,
+    .kk,
+    .fff {
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+
+    .bye,
+    .he,
+    .hi,
+    .no,
+    .hy,
+    .qa,
+    .brand,
+    .kk,
+    .nav,
+    .fff {
+        width: 100%;
+    }
+
+}
